@@ -1,7 +1,7 @@
 # repoos
 
 Repoos is a simple website that contains the links to repositories of IST-Lisboa courses.
-[a link](https://maxjunior.github.io/repoos/#)
+[here](https://maxjunior.github.io/repoos/#)
 
 ## How can I contribute ?
 1. If you are an university student(in Portugal) here how :
